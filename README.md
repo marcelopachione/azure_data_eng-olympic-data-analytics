@@ -70,5 +70,8 @@ To get started with this project, follow these steps:
 
 2. **Data Transformation**: Execute the PySpark notebooks in Azure Databricks to perform data transformation tasks.
 
+![alt text](./img/spark.jpg "Databricks Code")
+
 3. **Analytics**: Use Azure Synapse Analytics to execute SQL scripts in order to derive insights from the transformed data.
 
+![alt text](./img/synapse.jpg "Azure Synapse")
