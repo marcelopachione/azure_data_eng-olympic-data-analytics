@@ -1,4 +1,5 @@
 venv
+externals.txt
 
 # Local .terraform directories
 infrastructure/.terraform/
