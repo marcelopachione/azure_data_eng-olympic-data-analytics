@@ -1,5 +1,4 @@
 venv
 infrastructure/terraform.tfstate
 infrastructure/.terraform/
-infrastructure/terraform.tfstate.backup
-infrastructure/.terraform.lock.hcl
+terraform/
