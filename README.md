@@ -66,6 +66,8 @@ To get started with this project, follow these steps:
 
 1. **Data Ingestion**: Configure and run the ADF pipelines to ingest the Olympics data into Azure Data Lake Storage Gen2.
 
+![alt text](./img/data_ingestion.jpg "Data Ingestion Flow")
+
 2. **Data Transformation**: Execute the PySpark notebooks in Azure Databricks to perform data transformation tasks.
 
 3. **Analytics**: Use Azure Synapse Analytics to execute SQL scripts in order to derive insights from the transformed data.
