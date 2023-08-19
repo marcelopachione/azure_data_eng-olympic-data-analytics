@@ -41,14 +41,10 @@ To get started with this project, follow these steps:
 ```
 - data_ingestion/
   - ADF_pipelines/
-    - ...
-- data_storage/
-  - olympics_data/
-    - raw/
-    - transformed/
+- datasets/
+  - *.csv
 - data_transformation/
   - Databricks_notebooks/
-    - ...
 - analytics/
   - Synapse_SQL_scripts/
     - ...
